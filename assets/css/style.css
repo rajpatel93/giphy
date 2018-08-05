@@ -1,0 +1,22 @@
+/* .container{
+	padding-top: 5%;
+} */
+
+.jumbotron{
+	/*padding: 1%;*/
+	background-color: #6666ff;
+	color: #ffffff;
+}
+
+#movie-buttons {
+	color: #6666ff;
+
+}
+
+#movies{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
